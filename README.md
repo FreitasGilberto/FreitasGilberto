@@ -1,9 +1,14 @@
-### Hi there 👋, I am Gilberto Freitas
+### ¡Hola! Soy Gilberto Freitas 👋🏻
 ---
 <a title="LinkedIn Account" href="https://www.linkedin.com/in/gilberto-luis-jos%C3%A9-freitas-bernaez-780636141/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a title="Twitter Account" href="https://twitter.com/freitasgilb"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a> <a title="Instagram Account" href="https://www.instagram.com/freitasgilb/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 
-Desarrollador web autodidacta en busqueda de una empresa que quiera capacitar a un front end trainee con muchas ganas de seguir aprendiendo y sumar. 
+🌱Soy un desarrollador web autodidacta en busqueda de su primera experiencia laboral. 
 
+<ul>☕Actualmente estoy aprendiendo:
+<li>JavaScript</li>
+<li>React.js</li>
+<li>Vue.js</li>
+</ul>
 
 
 
