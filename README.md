@@ -4,7 +4,7 @@
 
 Desarrollador web autodidacta en busqueda de mi primera experiencia laboral, con ganas de sumar, crecer y seguir aprendiendo. Soy autónomo a la hora de buscar soluciones a distintos problemas, y tengo la capacidad de adaptarme a entornos de trabajo dinámicos. 
 
-Más abajo podrás encontrar las distintas *herramientas y tecnologías* que he estado estudiando. Además, cuento con un nivel avanzado de inglés en el cual estoy trabajando para mejorar día a día. 
+Más abajo podrás encontrar las distintas *herramientas y tecnologías* que he estado estudiando. Además, cuento con un nivel avanzado de inglés en el cual estoy trabajando en mejorar día a día. 
 
 💻Aprendiendo:
 ---
