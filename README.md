@@ -8,7 +8,6 @@ Más abajo podrás encontrar las distintas *herramientas y tecnologías* que he 
 
 💻Aprendiendo:
 ---
-<li>JavaScript</li>
 <li>React.js</li>
 <li>Vue.js</li>
 <li>TypeScript</li>
