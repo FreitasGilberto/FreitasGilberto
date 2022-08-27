@@ -4,8 +4,6 @@
 
 Desarrollador autodidacta en busqueda de una oportunidad en una empresa donde pueda desempeñar mis conocimientos y adquirir nuevos junto a un equipo de trabajo. Cuento con un nivel avanzado de inglés en el cual estoy trabajando en mejorar día a día. Soy una persona comprometida con todas mis responsabilidades, siempre enfocado en tener experiencias que me ayuden a crecer y formarme como profesional.
 
-Más abajo podrás encontrar las distintas *herramientas y tecnologías* que he estado estudiando.
-
 💻Aprendiendo:
 ---
 <li>React.js</li>
