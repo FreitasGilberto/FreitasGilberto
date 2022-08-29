@@ -6,7 +6,6 @@ Desarrollador autodidacta en busqueda de una oportunidad en una empresa donde pu
 
 💻Aprendiendo:
 ---
-<li>React.js</li>
 <li>TypeScript</li>
 
 🛠Herramientas y Tecnologías 
