@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-#### I'm a Developer based in Maracay, Venezuela. 
+#### I'm a Developer based in CABA, Argentina. 
 
 ##### About me
 
