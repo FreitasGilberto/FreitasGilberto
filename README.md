@@ -1,6 +1,6 @@
 ### Hello world! 👋
 
-#### I'm a Developer based in Ciudad Autonoma De Buenos Aires, Argentina. 
+#### I'm a Developer based in Buenos Aires, Argentina. 
 
 ##### About me
 
