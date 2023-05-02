@@ -1,8 +1,8 @@
-### Hello world! 👋
+# Hello world! 👋
 
-#### I'm a Developer based in Buenos Aires, Argentina. 
+## I'm a Developer based in Buenos Aires, Argentina. 
 
-##### About me
+### About me
 
 - 😁 Pronouns: he/him/his
 - 🏢 I'm currently working as a **freelancer**
