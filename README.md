@@ -10,4 +10,4 @@
 - 🌍 I speak Spanish (Native), English (C1 Advanced) and Portuguese (A2)
 - 🌱 Learning: TypeScript
 - 📫 Reach me: [linkedin.com/in/gilberto-freitas/](https://www.linkedin.com/in/gilberto-freitas/)
-- ⚡️ Fun fact: I'm watching One Piece and my favorite character is Franky.
+- ⚡️ Fun fact: I always say that I don't like anime but the truth is that my favorite fictional series is One Piece.
