@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, World! 👋 </h1>
+<h1 align="center"> Hello, World! 👋🏻 </h1>
 <h2 align="center"> About me 🚀</h2>
 
 <div align="justify">
