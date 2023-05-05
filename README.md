@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, world! 👋 </h1>
+<h1 align="center"> Hello, World! 👋 </h1>
 <h2 align="center"> About me 🚀</h2>
 
 <div align="justify">
@@ -6,7 +6,7 @@
 
 I am a native Spanish speaker and have a C1 Advanced level in English, as well as an A2 level in Portuguese. I enjoy being able to communicate with people from different backgrounds and cultures.
 
-If you'd like to get in touch, feel free to visit my LinkedIn profile at linkedin.com/in/gilberto-freitas/.
+If you'd like to get in touch, feel free to visit my <a href="linkedin.com/in/gilberto-freitas/">LinkedIn profile.</a>
 
 Now, for a fun fact about me: I'm a bit of a contradiction when it comes to anime. I always say that I don't like it, but my favorite fictional series is actually One Piece!</p>
 </div>
