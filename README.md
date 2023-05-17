@@ -28,6 +28,7 @@ Now, for a fun fact about me: I'm a bit of a contradiction when it comes to anim
 <h3 align="center">Frameworks/Libraries 📚</h3>
 
 <p align="center">
+  <a href="#"><img alt="Next JS" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"></a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 </p>
