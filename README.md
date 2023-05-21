@@ -1,7 +1,7 @@
 <h1> Hello! 👋🏻</h1>
 
 <div align="justify">
-  <p> Hello there! My name is <strong> Gilberto Freitas </strong> and I use he/him/his pronouns. I am a developer who is currently based somewhere on this beautiful planet. I'm always striving to expand my skillset, and at the moment, I'm focusing on learning TypeScript.
+  <p>My name is <strong> Gilberto Freitas </strong> and I use he/him/his pronouns. I am a developer who is currently based somewhere on this beautiful planet. I'm always striving to expand my skillset, and at the moment, I'm focusing on learning TypeScript.
 
 I am a native Spanish speaker and have a C1 Advanced level in English, as well as an A2 level in Portuguese. I enjoy being able to communicate with people from different backgrounds and cultures.
 
