@@ -1,5 +1,4 @@
-<h1 align="center"> Hello, World! 👋🏻 </h1>
-<h2> About me 🚀</h2>
+<h1> Hello! 👋🏻</h1>
 
 <div align="justify">
   <p> Hello there! My name is <strong> Gilberto Freitas </strong> and I use he/him/his pronouns. I am a developer who is currently based somewhere on this beautiful planet. I'm always striving to expand my skillset, and at the moment, I'm focusing on learning TypeScript.
