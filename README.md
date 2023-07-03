@@ -2,7 +2,7 @@
  Building cool stuff with my keyboard.
 
  ## Programming Languages and Technologies
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,py)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,py)](https://skillicons.dev)
 
 ## Projects
 Here are some of the projects I have worked on:
