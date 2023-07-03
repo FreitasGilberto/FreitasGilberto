@@ -1,9 +1,8 @@
 # Hello World! 👋🏻
+ Building cool stuff with my keyboard.
 
-Welcome to my GitHub profile! I am a passionate web developer with a strong interest in AI and data science. With expertise in JavaScript, Python, and TypeScript, I strive to create innovative and efficient solutions that push the boundaries of technology.
-
-## About Me
-I am a highly motivated individual who loves exploring the intersection of web development, artificial intelligence, and data science. With a strong foundation in JavaScript, I enjoy working with both front-end and back-end technologies to create dynamic and interactive web applications. My experience with Python and TypeScript complements my skill set, allowing me to tackle complex challenges and deliver robust solutions.
+ ## Programming Languages and Technologies
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs)](https://skillicons.dev)
 
 ## Projects
 Here are some of the projects I have worked on:
