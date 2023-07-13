@@ -13,8 +13,6 @@ Here are some of the projects I have worked on:
 
 3. **[Sticky Notes Web App](https://github.com/FreitasGilberto/sticky-notes):** An interactive web application developed using HTML, CSS, and vanilla JavaScript. This app allows users to create and manage virtual sticky notes, providing a convenient and digital way to organize tasks, reminders, and important information.
 
-These projects represent my dedication to combining cutting-edge technologies with creative problem-solving to deliver exceptional user experiences.
-
 ## Get in Touch
 If you would like to discuss potential collaborations, have any questions, or just want to connect, feel free to reach out to me. You can find me on [LinkedIn](https://www.linkedin.com/in/gilberto-freitas/) and [Twitter](https://twitter.com/freitasbernaez).
 
