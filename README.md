@@ -2,7 +2,7 @@
  Building cool stuff with my keyboard.
 
  ## Programming languages and technologies
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,py)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,tailwind,py)](https://skillicons.dev)
 
  ## Companies I have worked with 
 <img height="55px" width="auto" src="https://i.ibb.co/NjwftWk/icons-zirio.png" alt="Zirio Icon" border="0"> <img height="55px" width="auto" src="https://i.ibb.co/D9ypcG2/icons-svg.png" alt="Lenovo Icon" border="0">
