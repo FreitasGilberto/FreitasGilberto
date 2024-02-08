@@ -1,5 +1,5 @@
 # Hello World! 👋🏻
- Building cool stuff with my keyboard.
+I'm Gilberto Freitas, a Venezuelan 26 y.o. dev based in Buenos Aires, Argentina.
 
  ## Programming languages and technologies
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,tailwind,py)](https://skillicons.dev)
