@@ -14,6 +14,8 @@ Here are some of the projects I have worked on:
 
 2. **[Sticky Notes Web App](https://github.com/FreitasGilberto/sticky-notes):** An interactive web application developed using HTML, CSS, and vanilla JavaScript. This app allows users to create and manage virtual sticky notes, providing a convenient and digital way to organize tasks, reminders, and important information.
 
+3. **[Día de San Valentín Wep App](https://github.com/FreitasGilberto/para-teo):** Static web project I created to ask a special question on Valentine's Day to my loved one. The page presents a simple question "Do you want to be my Valentine?" with buttons to answer "Yes" or "No".
+
 ## Get in Touch
 If you would like to discuss potential collaborations, have any questions, or just want to connect, feel free to reach out to me. You can find me on [LinkedIn](https://www.linkedin.com/in/gilberto-freitas/) and [X](https://x.com/freitasbernaez).
 
