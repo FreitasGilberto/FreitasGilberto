@@ -1,7 +1,7 @@
 # Hello World! 👋🏻
 I'm Gilberto Freitas, a Venezuelan 27 y.o. dev based in 🇦🇷Buenos Aires, Argentina.
 
- ## Programming languages and technologies
+ ## Tech Stack
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,tailwind,py)](https://skillicons.dev)
 
  ## Companies I have worked with 
