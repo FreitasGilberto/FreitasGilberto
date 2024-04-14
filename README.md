@@ -4,7 +4,7 @@ I'm Gilberto Freitas, a Venezuelan 27 y.o. dev based in 🇦🇷Buenos Aires, Ar
  ## Tech Stack
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,tailwind,py)](https://skillicons.dev)
 
- ## Companies I have worked with 
+ ## Work Experience
 <img height="55px" width="auto" src="https://i.ibb.co/NjwftWk/icons-zirio.png" alt="Zirio Icon" border="0"> <img height="55px" width="auto" src="https://i.ibb.co/D9ypcG2/icons-svg.png" alt="Lenovo Icon" border="0">
 
 ## Projects
