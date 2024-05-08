@@ -1,4 +1,4 @@
-# About me
+# Hi! 👋
 I'm Gilberto Freitas, a Venezuelan 27 y.o. dev based in 🇦🇷Buenos Aires, Argentina.
 
  ## Tech Stack
