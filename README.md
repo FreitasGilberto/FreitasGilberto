@@ -4,6 +4,7 @@ If you would like to discuss potential collaborations, have any questions, or ju
 ## 💻 About me: 
 - Frontend Developer.
 - Passionate about comedy, cinema and technology.
+- 📍 Buenos Aires, Argentina.
 
 ## 🛠 Tools & Skills:
 
