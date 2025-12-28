@@ -12,7 +12,6 @@ If you would like to discuss potential collaborations, have any questions, or ju
 - HTML & CSS
 - JavaScript
 - TypeScript
-- Python
 
 ### Frameworks & Libraries
 - Reactjs
